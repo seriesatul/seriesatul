@@ -33,7 +33,7 @@ Pull-Stack Developer | AI/ML Explorer | I Pull Code from Github, Stack Overflow 
 <h2>🛠️ Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,java,css,html,js,git,cpp,dart,flutter,python" />
+  <img src="https://skillicons.dev/icons?i=android,java,css,html,js,git,cpp,react,python" />
 </p>
 
 ---
@@ -64,23 +64,8 @@ Pull-Stack Developer | AI/ML Explorer | I Pull Code from Github, Stack Overflow 
 
 [![GitHub trophies](https://github-profile-trophy.vercel.app/?username=seriesatul&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🔧 Languages and Tools:
-![My Tools](https://skillicons.dev/icons?i=Node.js,MongoDB,JavaScript,Python)
 
 ---
-
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghchauhan&layout=compact&theme=react)
-
----
-
-### ✨ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atulsinghchauhan&show_icons=true&theme=react)
-
----
-
-### 🔥 Contribution Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=atulsinghchauhan&theme=react)](https://git.io/streak-stats)
 
 
 <!---
