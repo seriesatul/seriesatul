@@ -54,7 +54,7 @@ Pull-Stack Developer | AI/ML Explorer | I Pull Code from Github, Stack Overflow 
 
 <h2>📫 Let's Connect!</h2>
 <p align="center">
-  <a href="[https://linkedin.com/in/atulsinghchauhan](https://www.linkedin.com/in/atul-singh-chauhan-a955b529b/)" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/atul-singh-chauhan-a955b529b" target="_blank">LinkedIn</a> •
   <a href="mailto:atulsingh04895@gmail.com">Email</a> •
   <a href="https://github.com/seriesatul">GitHub</a>
 </p>
