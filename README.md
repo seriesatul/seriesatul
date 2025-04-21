@@ -33,7 +33,7 @@ Pull-Stack Developer | AI/ML Explorer | I Pull Code from Github, Stack Overflow 
 <h2>🛠️ Languages and Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,java,css,html,js,git,cpp,react,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=android,java,css,html,js,git,cpp,react,python,django,flask,pytorch,scikit-learn" />
 </p>
 
 ---
