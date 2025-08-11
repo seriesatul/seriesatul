@@ -1,74 +1,81 @@
-
-Pull-Stack Developer | AI/ML Explorer | I Pull Code from Github, Stack Overflow & the Depths of Desperation | SDE Intern @ Bluestocks & CodeSalpha | B.Tech CSE @ AKTU | Hackathon & Project Geek
-
-<h1 align="center">Hi 👋, I'm Atul Singh Chauhan</h1>
-<p align="center">🚀 Passionate about Web Dev, AI & Open Source</p>
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#FF4D4D;">Atul Singh Chauhan</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | AI/ML Explorer | Hackathon & Project Geek</h3>
+<p align="center">
+  <i>I pull code from GitHub, Stack Overflow & the depths of desperation 😆</i>
+</p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<!-- Badges -->
+<p align="center">
+  <a href="mailto:atulsingh04895@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/atul-singh-chauhan-a955b529b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/seriesatul">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## 🧑‍💻 About Me
+- 🎓 B.Tech CSE @ AKTU  
+- 💼 SDE Intern @ Bluestocks & CodeSalpha  
+- 🌱 Currently deep-diving into **MERN Stack** + **AI/ML**  
+- 💡 Obsessed with building things that talk back (software, not relatives)  
+- 🏆 Hackathon addict & open-source enthusiast  
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java,git,android" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulsinghchauhan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-<h2>🔥 GitHub Streak</h2>
-
+## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=atulsinghchauhan&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2>🚀 Top Languages</h2>
-
+## 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghchauhan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghchauhan&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<h2>🛠️ Languages and Tools</h2>
+## 🧠 Currently Learning
+- 🤖 Machine Learning & AI
+- 🌐 Full Stack Development (MERN)
+- 🛠️ Open Source Contributions
 
+---
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,java,css,html,js,git,cpp,react,python" />
+  <img src="https://github-profile-trophy.vercel.app/?username=seriesatul&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-<h2>🧠 Currently Learning</h2>
-<ul>
-  <li>Machine Learning and AI</li>
-  <li>Full Stack Development (MERN)</li>
-  <li>Open Source Contributions</li>
-</ul>
+## 💡 Fun Fact
+> I love building stuff that talks back to you — like actual software, not angry relatives. 😆
 
 ---
 
-<h2>💡 Fun Fact</h2>
-<p>I love building stuff that talks back to you — like actual software, not angry relatives 😆</p>
-
----
-
-<h2>📫 Let's Connect!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/atul-singh-chauhan-a955b529b" target="_blank">LinkedIn</a> •
-  <a href="mailto:atulsingh04895@gmail.com">Email</a> •
-  <a href="https://github.com/seriesatul">GitHub</a>
-</p>
-
-
-
-
-[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=seriesatul&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
-
-<!---
-seriesatul/seriesatul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">✨ _“Code. Build. Break. Repeat.”_ ✨</p>
