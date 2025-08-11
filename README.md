@@ -49,15 +49,13 @@
 </p>
 
 <!-- Top Languages -->
+
+## 🚀 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriesatul&layout=compact&theme=radical" />
 </p>
 ---
 
-## 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsinghchauhan&layout=compact&theme=radical" />
-</p>
 
 ---
 
