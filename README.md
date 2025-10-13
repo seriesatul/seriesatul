@@ -6,7 +6,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/github-header-image.png" alt="Atul Singh Chauhan - Full-Stack Developer Banner">
+  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/Gemini_Generated_Image_5ivwx5ivwx5ivwx5.png" alt="Atul Singh Chauhan - Full-Stack Developer Banner">
 </p>
 
 <!-- Waving GIF and Intro -->
