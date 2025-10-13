@@ -6,7 +6,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img height="200" width=200 src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/Gemini_Generated_Image_5ivwx5ivwx5ivwx5.png" alt="Atul Singh Chauhan - Full-Stack Developer Banner">
+  <img height="600" width=400 src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/Gemini_Generated_Image_5ivwx5ivwx5ivwx5.png" alt="Atul Singh Chauhan - Full-Stack Developer Banner">
 </p>
 
 <!-- Waving GIF and Intro -->
