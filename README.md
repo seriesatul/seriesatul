@@ -130,9 +130,7 @@ Popular themes: dracula, radical, merko, gruvbox, tokyonight, onedark, cobalt, s
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seriesatul&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=seriesatul&theme=onedark)](https://github.com/seriesatul/github-profile-trophy)
 
 ---
 
