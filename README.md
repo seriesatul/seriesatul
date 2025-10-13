@@ -46,8 +46,8 @@
 
 I'm a final-year B.Tech CSE student with a passion for turning complex problems into elegant software solutions. I thrive in the space where development meets machine intelligence.
 
-- 🎓 Pursuing **B.Tech in Computer Science** from AKGEC, Ghaziabad (AKTU).
-- 🌱 Currently deep-diving into the **MERN Stack** and advanced **AI/ML concepts**.
+- 🎓 Pursuing **B.Tech in Computer Science** from PITM, Allahabad (AKTU).
+- 🌱 Currently deep-diving and learning the **MERN Stack** and advanced **AI/ML concepts**.
 - 💼 Previously honed my skills as an **SDE Intern** at **Bluestocks** & **CodeSalpha**.
 - 💡 Obsessed with building things that talk back (software, not relatives).
 - 🏆 Actively participate in hackathons and contribute to open-source projects.
