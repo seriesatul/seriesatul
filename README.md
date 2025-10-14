@@ -1,12 +1,22 @@
 <!-- 
-* Feel free to copy and paste this into your own README.
-* To make it your own, you'll need to change the username `seriesatul` to your own GitHub username.
-* You can also change the themes for the stats and trophies. I've left comments to show you how!
+======================================================================
+  HEY! This is the full README you requested. 
+  TO MAKE IT YOURS:
+  1. Replace all instances of 'YourNewUsername' with your GitHub username.
+  2. Create and upload your animated banner GIF as instructed below.
+======================================================================
 -->
 
-<!-- Header Banner -->
+<!-- Animated Banner -->
+<!-- 
+  INSTRUCTIONS FOR THE ANIMATED BANNER:
+  1. Create your banner as an animated GIF (using Canva or another tool).
+  2. Upload the GIF to this repository.
+  3. Click on the uploaded GIF file and copy its URL.
+  4. Paste that URL into the `src` attribute of the `<img>` tag below.
+-->
 <p align="center">
-  <img height="600" width=400 src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/Gemini_Generated_Image_5ivwx5ivwx5ivwx5.png" alt="Atul Singh Chauhan - Full-Stack Developer Banner">
+  <img src="https://raw.githubusercontent.com/YourNewUsername/YourNewUsername/main/your-banner.gif" alt="Atul Singh Chauhan - Animated Banner">
 </p>
 
 <!-- Waving GIF and Intro -->
@@ -29,10 +39,10 @@
   <a href="https://www.linkedin.com/in/atul-singh-chauhan-a955b529b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/seriesatul">
+  <a href="https://github.com/YourNewUsername">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add other links like your portfolio or Twitter if you have them! -->
+  <!-- Add your portfolio link here if you have one! -->
   <!-- 
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
@@ -46,8 +56,8 @@
 
 I'm a final-year B.Tech CSE student with a passion for turning complex problems into elegant software solutions. I thrive in the space where development meets machine intelligence.
 
-- 🎓 Pursuing **B.Tech in Computer Science** from PITM, Allahabad (AKTU).
-- 🌱 Currently deep-diving and learning the **MERN Stack** and advanced **AI/ML concepts**.
+- 🎓 Pursuing **B.Tech in Computer Science** from AKGEC, Ghaziabad (AKTU).
+- 🌱 Currently deep-diving into the **MERN Stack** and advanced **AI/ML concepts**.
 - 💼 Previously honed my skills as an **SDE Intern** at **Bluestocks** & **CodeSalpha**.
 - 💡 Obsessed with building things that talk back (software, not relatives).
 - 🏆 Actively participate in hackathons and contribute to open-source projects.
@@ -109,24 +119,32 @@ Here's a snapshot of the tools and technologies I use. I'm always learning and a
 
 ## 📊 My GitHub Stats
 
+<!-- 
+  NOTE: Change the 'theme' parameter to your favorite theme:
+  dracula, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dark
+-->
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=seriesatul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Atul's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourNewUsername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Atul's GitHub Stats" width="49%"/>
   <!-- Top Langs Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriesatul&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Atul's Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourNewUsername&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Atul's Top Languages" width="49%"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=seriesatul" alt="GitHub Streak" /></a>
-<!-- 
-NOTE: You can change the theme for the stats cards. 
-Popular themes: dracula, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dark
--->
+<p align="center">
+  <!-- 
+    THIS IS THE WORKING GITHUB STREAK STATS URL.
+    The service is hosted on Vercel, which is currently the most stable option.
+  -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=YourNewUsername&theme=tokyonight&hide_border=true" alt="Atul's GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=seriesatul&theme=onedark)](https://github.com/seriesatul/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourNewUsername&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -134,5 +152,5 @@ Popular themes: dracula, radical, merko, gruvbox, tokyonight, onedark, cobalt, s
 > "Code. Build. Break. Repeat."
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seriesatul&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YourNewUsername&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
