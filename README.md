@@ -116,11 +116,7 @@ Here's a snapshot of the tools and technologies I use. I'm always learning and a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriesatul&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Atul's Top Languages" width="49%"/>
 </p>
 
-<p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=seriesatul&theme=tokyonight&hide_border=true" alt="Atul's GitHub Streak" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seriesatul)](https://git.io/streak-stats)
 <!-- 
 NOTE: You can change the theme for the stats cards. 
 Popular themes: dracula, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dark
