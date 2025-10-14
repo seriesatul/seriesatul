@@ -118,7 +118,7 @@ From hackathons to side projects, I love exploring how AI can make software feel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seriesatul&theme=radical&hide_border=true" width="90%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=seriesatul&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="90%" alt="GitHub Streak"/>
 </p>
 
 ---
