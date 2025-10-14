@@ -118,7 +118,7 @@ Here's a snapshot of the tools and technologies I use. I'm always learning and a
 
 <p align="center">
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seriesatul&theme=tokyonight&hide_border=true" alt="Atul's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=seriesatul&theme=tokyonight&hide_border=true" alt="Atul's GitHub Streak" />
 </p>
 
 <!-- 
