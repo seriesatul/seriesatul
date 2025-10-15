@@ -126,7 +126,7 @@ From hackathons to side projects, I love exploring how AI can make software feel
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seriesatul)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
