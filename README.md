@@ -113,8 +113,8 @@ From hackathons to side projects, I love exploring how AI can make software feel
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seriesatul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Atul's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriesatul&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seriesatul&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Atul's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriesatul&layout=compact&theme=default&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
 </p>
 
 <p align="center">
