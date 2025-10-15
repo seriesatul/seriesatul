@@ -7,7 +7,13 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/your-banner.gif" alt="Atul Singh Chauhan - Animated Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/From KlickPin CF Pin by Patryk on vibes in 2025 _ Animated banners Black and white gif Aesthetic gif.gif" alt="Atul Singh Chauhan - Animated Banner" width="100%">
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/From KlickPin CF Pin by Patryk on vibes in 2025 _ Animated banners Black and white gif Aesthetic gif.gif" alt="Atul Singh Chauhan - Animated Banner" width="49%">
 </p>
 
 <!-- Waving Hand GIF + Intro -->
