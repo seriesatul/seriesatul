@@ -129,10 +129,7 @@ From hackathons to side projects, I love exploring how AI can make software feel
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seriesatul&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-drab-eight.vercel.app?user=seriesatul" alt="GitHub Streak" /></a>
 
 ---
 
