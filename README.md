@@ -118,10 +118,7 @@ From hackathons to side projects, I love exploring how AI can make software feel
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=seriesatul&theme=radical&hide_border=true&background=0d1117&ring=ff005c&fire=ff005c&currStreakLabel=ffffff" 
-    width="90%" 
-    alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-drab-eight.vercel.app?user=seriesatul" alt="GitHub Streak" /></a>
 </p>
 
 
@@ -129,7 +126,7 @@ From hackathons to side projects, I love exploring how AI can make software feel
 ---
 
 ## 🏆 GitHub Trophies
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-drab-eight.vercel.app?user=seriesatul" alt="GitHub Streak" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
