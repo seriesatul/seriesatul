@@ -13,7 +13,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/From KlickPin CF Pin by l lilithh on Profile pictures _ Animated banners Black and white gif Aesthetic gif.gif" alt="Atul Singh Chauhan - Animated Banner" width="49%">
+  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/From KlickPin CF Pin by Patryk on vibes in 2025 _ Quote banner Animated banners Banner gif.gif" alt="Atul Singh Chauhan - Animated Banner" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seriesatul/seriesatul/main/From KlickPin CF Pin by Patryk on vibes in 2025 _ Quote banner Animated banners Banner gif.gif" alt="Atul Singh Chauhan - Animated Banner" width="49%">
 </p>
 
 <!-- Waving Hand GIF + Intro -->
