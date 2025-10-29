@@ -21,11 +21,11 @@
 </h1>
 
 <h3 align="center">
-🚀 Full-Stack Developer | 🧠 AI/ML Explorer | 🎯 Hackathon Enthusiast | 🎬 Creative Builder
+🚀 Full-Stack Developer | 🧠 Agentic AI Engineer | 🧩 Creative Systems Builder | 🎯 Hackathon Enthusiast
 </h3>
 
 <p align="center">
-  <i>"I don’t just write code — I design experiences that *talk, think,* and *feel.*"</i>
+  <i>"I design intelligent systems that don’t just respond — they *reason, adapt,* and *act.*"</i>
 </p>
 
 ---
@@ -46,21 +46,22 @@
 
 ## 🧠 About Me
 
-I’m a **B.Tech CSE** student passionate about building software that fuses **creativity, intelligence, and emotion**.  
-From hackathons to side projects, I love exploring how AI can make software feel *alive.*
+I’m an aspiring **Agentic AI Engineer and Full-Stack Developer** driven by curiosity to build systems that think, act, and evolve.  
+My goal is to bring autonomy, logic, and creativity together — crafting applications that go beyond static responses.
 
 - 🎓 Pursuing **B.Tech in Computer Science** from **AKTU (India)**
-- 💼 Ex-Intern at **Bluestocks** and **CodeSalpha**
-- ⚙️ Specializing in **MERN Stack**, **AI/ML**, and **interactive assistants**
-- 💬 Ask me about: **React, Node.js, TensorFlow, OpenAI APIs**
-- 🎵 Fun fact: I code better with lo-fi beats and existential thoughts 😆  
+- 💼 Ex-Intern at **Bluestock Technologies** and **Intern Intelligence**
+- ⚙️ Experienced in **MERN**, **Python**, **LangChain**, and **automation agents**
+- 💬 Ask me about: **React, Django, Generative AI, Agentic Systems**
+- 🌱 Currently building the next-gen Agentic frameworks that automate research and decision-making
+- 🎧 Fun fact: I debug best with coffee and cinematic background music ☕
 
 <details>
   <summary>🌈 A bit more...</summary>
   
-  - 🧩 I enjoy solving complex problems elegantly.  
-  - 🧠 I’m constantly experimenting with ML models & automation tools.  
-  - 🎯 My philosophy: *“Code. Build. Break. Learn. Repeat.”*  
+  - 🧩 I enjoy architecting AI systems that can take initiative.  
+  - 🧠 Exploring multi-agent coordination and data-driven planning.  
+  - 🎯 Motto: *"Autonomy isn’t the future of code — it’s the next language of intelligence."*
 </details>
 
 ---
@@ -95,7 +96,7 @@ From hackathons to side projects, I love exploring how AI can make software feel
   <tr>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-      <br><b>AI/ML</b>
+      <br><b>AI/Agentic Systems</b>
     </td>
     <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -125,8 +126,6 @@ From hackathons to side projects, I love exploring how AI can make software feel
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-drab-eight.vercel.app?user=seriesatul" alt="GitHub Streak" /></a>
 </p>
 
-
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -138,15 +137,15 @@ From hackathons to side projects, I love exploring how AI can make software feel
 
 | 🚀 Project | 💡 Description | 🔗 Link |
 |------------|----------------|---------|
-| **🧠 BUJJI (AI Desktop Assistant)** | Emotionally responsive AI desktop assistant built using Python + Eel + HTML/JS | [View Repo](https://github.com/seriesatul) |
-| **📰 Multi-Perspective News App** | A MERN app showing left, right, and neutral perspectives on news | [View Repo](https://github.com/seriesatul) |
-| **🔐 SecureFlow (Adobe Hackathon Project)** | Plugin-based AI security layer for Creative Cloud | [View Repo](https://github.com/seriesatul) |
+| **🧠 BUJJI (Agentic AI Assistant)** | Emotionally aware desktop assistant that listens, reacts, and learns from user behavior | [View Repo](https://github.com/seriesatul) |
+| **🎓 Prepmate AI (Course Generation Platform)** | Full-stack app that autonomously curates personalized learning paths using AI reasoning | [View Repo](https://github.com/seriesatul) |
+| **📊 Project Edge Agent (Autonomous Web Monitor)** | Agentic system that scrapes competitor sites and delivers daily analytical summaries | [View Repo](https://github.com/seriesatul) |
 
 ---
 
 ## 💫 My Philosophy
 
-> “Write code that not only works — but *feels* alive.”
+> “I build agents that don’t wait for instructions — they *think ahead.*”
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seriesatul&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
